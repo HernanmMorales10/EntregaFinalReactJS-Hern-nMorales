@@ -1,0 +1,14 @@
+.cartContainer{
+    display: flex;
+    justify-content: center;
+    width: 150px;
+    padding-top: 20px;
+}
+
+.nav-cart{
+    width: 60px;
+    
+}
+.cartLength{
+    width: 10px;
+}
